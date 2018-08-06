@@ -1,0 +1,36 @@
+{
+  "name": "books-cli",
+  "version": "1.0.0",
+  "description": "由于本人经常性的写一些文档，然后现有的很多插件版本各方面存在问题，甚至还有一些作者已经放弃维护了，所以决定自己写一个综合性的插件用来满足个人需求。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liushilive/books-cli.git"
+  },
+  "keywords": [],
+  "author": "liushilive",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/liushilive/books-cli/issues"
+  },
+  "homepage": "https://github.com/liushilive/books-cli#readme",
+  "dependencies": {
+    "katex": "^0.10.0-beta",
+    "html-entities": "^1.2.1",
+    "cheerio": "^1.0.0-rc.2",
+    "mkdirp": "^0.5.1",
+    "prismjs": "^1.15.0",
+    "q": "^1.5.1",
+    "mermaid.cli": "^0.5.1",
+    "github-slugid": "^1.0.1",
+    "colors": "^1.3.1",
+    "entities": "^1.1.1",
+    "handlebars": "^4.0.11",
+    "language-map": "^1.3.0",
+    "meow": "^5.0.0",
+    "winston-color": "^1.0.0"
+  }
+}

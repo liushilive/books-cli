@@ -1,8 +1,9 @@
-var Katex = require('./lib/Katex');
-var Mermaid = require('./lib/Mermaid');
-var Tools = require('./lib/Tools');
-var Prism = require('./lib/Prism');
-var ImageCaptions = require('./lib/ImageCaptions');
+const Katex = require('./lib/Katex');
+const Mermaid = require('./lib/Mermaid');
+const Tools = require('./lib/Tools');
+const Prism = require('./lib/Prism');
+const ImageCaptions = require('./lib/ImageCaptions');
+const sectionx = require('./lib/sectionx');
 
 
-module.exports = { Katex, Mermaid, Tools, Prism, ImageCaptions };
+module.exports = { Katex, Mermaid, Tools, Prism, ImageCaptions, sectionx };

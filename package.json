@@ -16,6 +16,7 @@
   "homepage": "https://github.com/liushilive/books-cli#readme",
   "dependencies": {
     "cpr": "^3.0.1",
+    "lang-map": "^0.4.0",
     "katex": "^0.10.0-beta",
     "html-entities": "^1.2.1",
     "cheerio": "^1.0.0-rc.2",

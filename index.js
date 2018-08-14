@@ -7,6 +7,18 @@ const sectionx = require('./lib/sectionx');
 const file_imports = require('./lib/file_imports');
 const page_footer_copyright = require('./lib/page_footer_copyright');
 const search_plus = require('./lib/search_plus');
+const anchor_navigation_ex = require('./lib/anchor_navigation_ex');
 
 
-module.exports = { Katex, Mermaid, Tools, Prism, ImageCaptions, sectionx, file_imports, page_footer_copyright: page_footer_copyright.page_footer_copyright, search_plus };
+module.exports = {
+  Katex,
+  Mermaid,
+  Tools,
+  Prism,
+  ImageCaptions,
+  sectionx,
+  file_imports,
+  page_footer_copyright: page_footer_copyright.page_footer_copyright,
+  search_plus,
+  anchor_navigation_ex
+};

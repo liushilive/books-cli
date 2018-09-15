@@ -1,35 +1,35 @@
 {
-  "name": "books-cli",
-  "version": "1.0.13",
-  "description": "由于本人经常性的写一些文档，然后现有的很多插件版本各方面存在问题，甚至还有一些作者已经放弃维护了，所以决定自己写一个综合性的插件用来满足个人需求。",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/liushilive/books-cli.git"
-  },
-  "keywords": [
-    "books",
-    "gitbook",
-    "math",
-    "mermaid",
-    "code",
-    "prism"
-  ],
-  "author": "liushilive",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/liushilive/books-cli/issues"
-  },
-  "homepage": "https://github.com/liushilive/books-cli#readme",
-  "dependencies": {
-    "cpr": "^3.0.1",
-    "lang-map": "^0.4.0",
-    "katex": "^0.10.0-beta",
-    "cheerio": "^1.0.0-rc.2",
-    "prismjs": "^1.15.0",
-    "q": "^1.5.1",
-    "mermaid.cli": "^0.5.1",
-    "html-entities": "^1.2.1",
-    "github-slugid": "^1.0.1"
-  }
+    "name": "books-cli",
+    "version": "1.0.14",
+    "description": "由于本人经常性的写一些文档，然后现有的很多插件版本各方面存在问题，甚至还有一些作者已经放弃维护了，所以决定自己写一个综合性的插件用来满足个人需求。",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/liushilive/books-cli.git"
+    },
+    "keywords": [
+        "books",
+        "gitbook",
+        "math",
+        "mermaid",
+        "code",
+        "prism"
+    ],
+    "author": "liushilive",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/liushilive/books-cli/issues"
+    },
+    "homepage": "https://github.com/liushilive/books-cli#readme",
+    "dependencies": {
+        "cpr": "^3.0.1",
+        "lang-map": "^0.4.0",
+        "katex": "^0.10.0-rc.1",
+        "cheerio": "^1.0.0-rc.2",
+        "prismjs": "^1.15.0",
+        "q": "^1.5.1",
+        "mermaid.cli": "^0.5.1",
+        "html-entities": "^1.2.1",
+        "github-slugid": "^1.0.1"
+    }
 }

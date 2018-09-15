@@ -11,14 +11,14 @@ const anchor_navigation_ex = require('./lib/anchor_navigation_ex');
 
 
 module.exports = {
-  Katex,
-  Mermaid,
-  Tools,
-  Prism,
-  ImageCaptions,
-  sectionx,
-  file_imports,
-  page_footer_copyright: page_footer_copyright.page_footer_copyright,
-  search_plus,
-  anchor_navigation_ex
+    Katex,
+    Mermaid,
+    Tools,
+    Prism,
+    ImageCaptions,
+    sectionx,
+    file_imports,
+    page_footer_copyright: page_footer_copyright.page_footer_copyright,
+    search_plus,
+    anchor_navigation_ex
 };

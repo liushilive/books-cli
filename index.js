@@ -23,3 +23,5 @@ module.exports = {
     search_plus,
     anchor_navigation_ex
 };
+
+require('pkginfo')(module, 'version', 'author');

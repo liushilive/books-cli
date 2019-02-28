@@ -1,6 +1,6 @@
 {
     "name": "books-cli",
-    "version": "1.0.20",
+    "version": "1.0.21",
     "description": "由于本人经常性的写一些文档，然后现有的很多插件版本各方面存在问题，甚至还有一些作者已经放弃维护了，所以决定自己写一个综合性的插件用来满足个人需求。",
     "main": "index.js",
     "repository": {
@@ -40,6 +40,7 @@
         "mermaid.cli": "^0.5.1",
         "html-entities": "^1.2.1",
         "node-plantuml": "^0.7.0",
-        "github-slugid": "^1.0.1"
+        "github-slugid": "^1.0.1",
+        "pkginfo": "^0.4.1"
     }
 }
